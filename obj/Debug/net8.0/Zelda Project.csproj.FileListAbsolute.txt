@@ -1,0 +1,17 @@
+C:\Users\Scooo\OneDrive\Desktop\Repos\Zelda Project\bin\Debug\net8.0\Zelda Project.exe
+C:\Users\Scooo\OneDrive\Desktop\Repos\Zelda Project\bin\Debug\net8.0\Zelda Project.deps.json
+C:\Users\Scooo\OneDrive\Desktop\Repos\Zelda Project\bin\Debug\net8.0\Zelda Project.runtimeconfig.json
+C:\Users\Scooo\OneDrive\Desktop\Repos\Zelda Project\bin\Debug\net8.0\Zelda Project.dll
+C:\Users\Scooo\OneDrive\Desktop\Repos\Zelda Project\bin\Debug\net8.0\Zelda Project.pdb
+C:\Users\Scooo\OneDrive\Desktop\Repos\Zelda Project\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Scooo\OneDrive\Desktop\Repos\Zelda Project\obj\Debug\net8.0\Zelda Project.csproj.AssemblyReference.cache
+C:\Users\Scooo\OneDrive\Desktop\Repos\Zelda Project\obj\Debug\net8.0\Zelda Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Scooo\OneDrive\Desktop\Repos\Zelda Project\obj\Debug\net8.0\Zelda Project.AssemblyInfoInputs.cache
+C:\Users\Scooo\OneDrive\Desktop\Repos\Zelda Project\obj\Debug\net8.0\Zelda Project.AssemblyInfo.cs
+C:\Users\Scooo\OneDrive\Desktop\Repos\Zelda Project\obj\Debug\net8.0\Zelda Project.csproj.CoreCompileInputs.cache
+C:\Users\Scooo\OneDrive\Desktop\Repos\Zelda Project\obj\Debug\net8.0\Zelda Pr.DD17F1BE.Up2Date
+C:\Users\Scooo\OneDrive\Desktop\Repos\Zelda Project\obj\Debug\net8.0\Zelda Project.dll
+C:\Users\Scooo\OneDrive\Desktop\Repos\Zelda Project\obj\Debug\net8.0\refint\Zelda Project.dll
+C:\Users\Scooo\OneDrive\Desktop\Repos\Zelda Project\obj\Debug\net8.0\Zelda Project.pdb
+C:\Users\Scooo\OneDrive\Desktop\Repos\Zelda Project\obj\Debug\net8.0\Zelda Project.genruntimeconfig.cache
+C:\Users\Scooo\OneDrive\Desktop\Repos\Zelda Project\obj\Debug\net8.0\ref\Zelda Project.dll
